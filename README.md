@@ -72,3 +72,4 @@ Market Research | Market Intelligence | Technology and Analytics Research
 - [Market-Sizing Model](./Agentic_AI_Market_Sizing_Model.xlsx)
 - [Competitive Landscape Analysis](./Agentic_AI_Competitive_Landscape.xlsx)
 - [Market Definition](./Agentic_AI_Market_Definition.docx)
+- - [Read the Market Research Report (PDF)](./Enterprise_Agentic_AI_Market_Report_2026_2030.pdf)
