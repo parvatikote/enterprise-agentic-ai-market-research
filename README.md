@@ -65,3 +65,10 @@ The project uses a published market benchmark as the starting point for illustra
 **Parvati Kote**
 
 Market Research | Market Intelligence | Technology and Analytics Research
+
+## Project Files
+
+- [Market Research Report](./Enterprise_Agentic_AI_Market_Report_2026_2030.docx)
+- [Market-Sizing Model](./Agentic_AI_Market_Sizing_Model.xlsx)
+- [Competitive Landscape Analysis](./Agentic_AI_Competitive_Landscape.xlsx)
+- [Market Definition](./Agentic_AI_Market_Definition.docx)
